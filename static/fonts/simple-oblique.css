@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SimpleObliqueRegular';
+    src: url('simple-oblique.eot');
+    src: url('simple-oblique.eot') format('embedded-opentype'),
+         url('simple-oblique.woff') format('woff'),
+         url('simple-oblique.ttf') format('truetype'),
+         url('simple-oblique.svg#SimpleObliqueRegular') format('svg');
+}

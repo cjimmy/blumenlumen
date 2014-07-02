@@ -1,0 +1,182 @@
+kickstarterlink: https://www.kickstarter.com/projects/foldhaus/blumen-lumen-interactive-sculpture-at-burning-man
+imgpath: ../static/images
+
+{% extends "base.html" %}
+
+{% block title %}Blumen Lumen{% endblock %}
+
+{% block content %}
+
+
+
+<div class="container-fluid">
+
+
+  <div class="row">
+    <div class="col-xs-12 col-lg-12 section-0">
+      <img src="{{imgpath}}/logo.png" srcset="{{imgpath}}/logo.png 2x"alt="" />
+      <!-- <div id="blumen-lumen-title"><p>BLUMEN LUMEN</p></div> -->
+      <img id="arrow" src="{{imgpath}}/arrow.png" alt="">
+
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-lg-12 section-1">
+      <div data-0="opacity:0;" data-center-center="opacity:1;" data-50-top="opacity:0;" id="intro"><p>AN OASIS OF LARGER THAN LIFE FLOWERS THAT REACT TO THE ENERGY AND MOVEMENT AROUND THEM</p></div>
+    </div>
+  </div>
+ 
+
+
+  <div class="row">
+    <div class="col-lg-12 section-2 ">
+      <div
+        id="garden-day"
+        data-top-top="top:0%; opacity:1;"
+        data-top-bottom="top:103%; opacity:0;"
+      ></div>
+      <div
+        id="garden-night"
+        data-top-top="top:0%;"
+        data-top-bottom="top:103%;"
+      ></div>
+    </div> 
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12 section-empty"></div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-12 section-3">
+      <div class="row">
+        <div id='section-3-title' class="col-xs-8 col-xs-offset-3 col-sm-3 col-sm-offset-8 col-md-3 col-md-offset-8 col-lg-3 col-lg-offset-8">
+          <p>THE PROCESS</p>
+        </div>
+        <div class="section-3-img-wrapper">
+          <img  class="process-img" id="process-0" src="{{imgpath}}/process_0.gif" alt="full size flower with LEDs installed">
+          <img  class="process-img" id="process-1" src="{{imgpath}}/process_1.jpg" srcset="{{imgpath}}/process_1@2x.jpg 2x" alt="putting in eyelets">
+          <img  class="process-img" id="process-2" src="{{imgpath}}/process_2.jpg" srcset="{{imgpath}}/process_2@2x.jpg 2x" alt="two flowers, folded">
+          <img  class="process-img" id="process-3" src="{{imgpath}}/process_3.jpg" srcset="{{imgpath}}/process_3@2x.jpg 2x" alt="the stamen">
+          <img  class="process-img" id="process-4" src="{{imgpath}}/process_4.jpg" srcset="{{imgpath}}/process_4@2x.jpg 2x" alt="20ft flower">
+          <img  class="process-img" id="process-5" src="{{imgpath}}/process_5.jpg" srcset="{{imgpath}}/process_5@2x.jpg 2x" alt="pattern">
+          <img  class="process-img" id="process-6" src="{{imgpath}}/process_6.gif" alt="jimmy operating the flower, first time">
+          <img  class="process-img" id="process-7" src="{{imgpath}}/process_7.jpg" srcset="{{imgpath}}/process_7@2x.jpg 2x" alt="size comparison with remy">
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row section-4">
+
+    <div class="col-xs-12 col-lg-12">
+      <div class="row">
+        <div id='section-4-title' class="col-xs-8 col-xs-offset-3 col-sm-4 col-sm-offset-8 col-md-3 col-md-offset-8 col-lg-3 col-lg-offset-8">
+          <p>THE INSPIRATION</p>
+        </div>
+
+        <div class="section-4-img-wrapper">
+          <img id="leaves" src="{{imgpath}}/leaves.png" srcset="{{imgpath}}/leaves@2x.png 2x" alt="leaf folds">
+          <img id="yurt-day" src="{{imgpath}}/yurt-day.jpg" srcset="{{imgpath}}/yurt-day@2x.jpg 2x" alt="yurt in 2011">
+          <img id="yurt-night" src="{{imgpath}}/yurt-night.jpg" srcset="{{imgpath}}/yurt-night@2x.jpg 2x" alt="yurt in 2012">
+        </div>
+
+        <div id='section-4-description' class="col-xs-8 col-xs-offset-3 col-sm-4 col-sm-offset-1 col-md-3 col-md-offset-1 col-lg-3 col-lg-offset-1">
+          <p>THE YURT, A SIMILAR STRUCTURE, WAS BUILT FOR THREE OTHER BURNS</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- kickstarter -->
+  <div class="row section-5" >
+    <div class="row">
+      <div class="col-lg-12 ">
+        <img id="line-flower" src="{{imgpath}}/wired.png">
+        <p>
+          BLUMEN LUMEN HAS BEEN FUNDED THUS FAR BY THE <a target="_blank" href="http://blackrockarts.org/">BLACK ROCK ARTS FOUNDATION</a>. IN ORDER TO FUND THE REST OF THE CONSTRUCTION AND INSTALLATION, 
+          WE NEED YOUR HELP. HERE ARE SOME GIFTS AS A THANK YOU.
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-4 col-xs-offset-2 col-md-offset-2 col-md-2 col-lg-offset-2 col-lg-2">
+        <a href="{{kickstarterlink}}"><div class="reward-overlay">SET OF 3<br>POSTCARDS</div><img class="reward-img" src="{{imgpath}}/reward_1.png" srcset="{{imgpath}}/reward_1@2x.png 2x"></a>
+        <!-- <div class="reward-caption">SOMETHING 1</div> -->
+      </div>
+      <div class="col-xs-4 col-md-2 col-lg-2">
+        <a href="{{kickstarterlink}}"><div class="reward-overlay">FLOWER MEDALLION NECKLACE</div><img class="reward-img" src="{{imgpath}}/reward_2.png" srcset="{{imgpath}}/reward_2@2x.png 2x"></a>
+        <!-- <div class="reward-caption">SOMETHING 2</div> -->
+      </div>
+      <div class="col-xs-4 col-xs-offset-2 col-md-2 col-md-offset-0 col-lg-2 col-lg-offset-0">
+        <a href="{{kickstarterlink}}"><div class="reward-overlay" srcset="{{imgpath}}/reward_3@2x.png 2x"> GOLD FOIL<br>STAMPED POSTER</div><img src="{{imgpath}}/reward_3.png"></a>
+        <!-- <div class="reward-caption">SOMETHING 3</div> -->
+      </div>
+      <div class="col-xs-4 col-md-2 col-lg-2" >
+        <a href="{{kickstarterlink}}"><div class="reward-overlay" srcset="{{imgpath}}/reward_4@2x.png 2x">MINIATURE<br>DESK LAMP</div><img src="{{imgpath}}/reward_4.png"></a>
+        <!-- <div class="reward-caption">SOMETHING 4</div> -->
+      </div>
+    </div>
+
+    <div class="row support-btn">
+      <div class="col-xs-12">
+        <a href="{{kickstarterlink}}">SUPPORT THE PROJECT</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- about the team -->
+  <div class="row section-6">
+    <div id="section-6-description">
+      <h2>THE TEAM: FOLDHAUS COLLECTIVE</h2>
+      <p>
+        WE ARE AN ART COLLECTIVE OF ELECTROMECHANICAL, PRODUCT, AND INTERACTION DESIGNERS DEDICATED TO CREATING AND SHARING ART WITH THE BROADER COMMUNITY. WE’VE HAD A LOT OF HELP FROM OUR IDEO FAMILY ALONG THE WAY; SPECIAL THANKS TO CHRIS G, MARCO T, STEVE M.
+      </p>
+    </div>
+
+    <div class="row ">
+    <div class="col-xs-5 col-xs-offset-1 col-sm-4 col-sm-offset-2 col-md-2 col-md-offset-3 col-lg-2 col-lg-offset-3">
+        <div class="faceshot-overlay"><div class="name">JOERG</div>MASTER<br>FOLDER</div><img class="team-img" src="{{imgpath}}/joerg.png">
+      </div>
+      <div class="col-xs-5 col-lg-2 col-sm-4 col-md-2 col-lg-offset-0">
+        <div class="faceshot-overlay"><div class="name">JESSE</div>DIRECTOR OF NON-<br>FERROUS MATERIALS</div><img class="team-img" src="{{imgpath}}/jesse.png">
+      </div>
+      <div class="col-xs-5 col-xs-offset-1 col-sm-4 col-sm-offset-2 col-md-2 col-md-offset-0   col-lg-2 col-lg-offset-0">
+        <div class="faceshot-overlay"><div class="name">REMY</div>CHIEF PVC <br>BENDER</div><img class="team-img" src="{{imgpath}}/remy.png">
+      </div>
+      <div class="col-xs-5  col-sm-4 col-md-2 col-md-offset-3 col-lg-2 col-lg-offset-3">
+        <div class="faceshot-overlay"><div class="name">JIMMY</div>ELECTRON<br>COWBOY</div><img class="team-img" src="{{imgpath}}/jimmy.png">
+      </div>
+      <div class="col-xs-5 col-sm-4 col-sm-offset-2 col-xs-offset-1 col-md-2 col-md-offset-0 col-lg-2 col-lg-offset-0">
+        <div class="faceshot-overlay"><div class="name">BEAU</div>RECOVERING<br>ARCHITECT</div><img class="team-img" src="{{imgpath}}/beau.png">
+      </div>
+      <div class="col-xs-5 col-sm-4 col-lg-2 col-md-2 col-lg-offset-0">
+        <div class="faceshot-overlay"><div class="name">NIVI</div>POST-MODERN NEW<br>MEDIA DANCER</div><img class="team-img" src="{{imgpath}}/nivi.png">
+      </div>
+    </div>
+  </div>
+
+
+  <!-- contributor thank you -->
+<!--   <div class="row section-7">
+    
+</div> -->
+
+
+
+  <div class="row footer">
+    <div class="col-xs-12">
+      <p>BLUMEN LUMEN | A PROJECT BY FOLDHAUS</p>
+    </div>
+  </div>
+
+
+
+</div>
+
+
+
+
+{% endblock content%}

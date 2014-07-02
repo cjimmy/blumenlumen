@@ -1,0 +1,1327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"simple",
+				"simple-font"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"re",
+				"resizeOverlays"
+			],
+			[
+				"res",
+				"resizeOverlays"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"section-0",
+				"section-0-bg-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"section",
+				"section-3"
+			],
+			[
+				"noam",
+				"noamStr"
+			],
+			[
+				"mot",
+				"motorNum"
+			],
+			[
+				"moto",
+				"motorPattern"
+			],
+			[
+				"time",
+				"time_in_us"
+			],
+			[
+				"print",
+				"printDataToConsole"
+			],
+			[
+				"read",
+				"readMagnetometer"
+			],
+			[
+				"for",
+				"forever"
+			],
+			[
+				"0x3",
+				"0x3E"
+			],
+			[
+				"wr",
+				"writeToRegister"
+			],
+			[
+				"IMU",
+				"IMU_9DOF"
+			],
+			[
+				"is",
+				"isVerbose"
+			],
+			[
+				"IM",
+				"IMU_9DOF"
+			],
+			[
+				"init",
+				"initMagnetometer"
+			],
+			[
+				"magnet",
+				"magnetom"
+			],
+			[
+				"ace",
+				"accel"
+			],
+			[
+				"salve",
+				"slaveDevice_fh"
+			],
+			[
+				"MAG",
+				"MAGN_WRITE"
+			],
+			[
+				"ACC",
+				"ACCEL_WRITE"
+			],
+			[
+				"magneto",
+				"magnetometer"
+			],
+			[
+				"GYRO",
+				"GYRO_ADDR"
+			],
+			[
+				"Gyr",
+				"GYRO_ADDR"
+			],
+			[
+				"MAN",
+				"MAGN_ADDR"
+			],
+			[
+				"MAGN",
+				"MAGN_ADDR"
+			],
+			[
+				"ACCEL",
+				"ACCEL_ADDR"
+			],
+			[
+				"trans",
+				"transmitData"
+			],
+			[
+				"MANG",
+				"MAGN_WRITE"
+			],
+			[
+				"begin",
+				"beginTransmissionTo"
+			],
+			[
+				"dev",
+				"device"
+			],
+			[
+				"set",
+				"setPWM"
+			],
+			[
+				"robo",
+				"roboveroConfig"
+			],
+			[
+				"lcp",
+				"lpc17xx_mcpwm"
+			],
+			[
+				"di",
+				"digitalWrite"
+			],
+			[
+				"digit",
+				"digitalWrite"
+			],
+			[
+				"wdi",
+				"widthOfRainbow"
+			],
+			[
+				"width",
+				"widthOfRainbow"
+			],
+			[
+				"wid",
+				"widthOfRainbow"
+			],
+			[
+				"get",
+				"getRandomElementFromArray"
+			],
+			[
+				"random",
+				"randomFactor_x"
+			],
+			[
+				"n",
+				"nShapes"
+			],
+			[
+				"star",
+				"startingNsides"
+			],
+			[
+				"dec",
+				"decreaseStripeSpeed"
+			],
+			[
+				"de",
+				"decreaseStripSpeed"
+			],
+			[
+				"increas",
+				"increaseStripeSpeed"
+			],
+			[
+				"str",
+				"strong"
+			],
+			[
+				"dist",
+				"distanceToGo"
+			],
+			[
+				"dis",
+				"distanceToGo"
+			],
+			[
+				"curr",
+				"currPos"
+			],
+			[
+				"cur",
+				"currPos"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"linear",
+				"linearSpeed"
+			],
+			[
+				"Ste",
+				"STEPS_PER_REV"
+			],
+			[
+				"THI",
+				"WIRE_THICKNESS"
+			],
+			[
+				"u",
+				"uint16_t"
+			],
+			[
+				"SOUND",
+				"SOUND_ENABLE"
+			],
+			[
+				"i2",
+				"I2C_ADDR"
+			],
+			[
+				"I2",
+				"I2C_ADDR"
+			],
+			[
+				"sound",
+				"soundFlag"
+			],
+			[
+				"digi",
+				"digitalRead"
+			],
+			[
+				"capBuff",
+				"capBuffer"
+			],
+			[
+				"capBuf",
+				"capBuffer"
+			],
+			[
+				"capBu",
+				"capBuffer"
+			],
+			[
+				"CAP",
+				"CAP_BUFFER_SIZE"
+			],
+			[
+				"VA",
+				"VALUE_RISE_FOR_TOUCH"
+			],
+			[
+				"capV",
+				"capValFloat"
+			],
+			[
+				"last",
+				"lastTime"
+			],
+			[
+				"capVal",
+				"capValFloat"
+			],
+			[
+				"change",
+				"changeWeaponLED"
+			],
+			[
+				"N",
+				"N_LEDS_RING"
+			],
+			[
+				"if",
+				"ifdef"
+			],
+			[
+				"MOD",
+				"MODULE_ONE"
+			],
+			[
+				"LE",
+				"LIGHTS_ENABLE"
+			],
+			[
+				"cap",
+				"CAP_BUFFER_SIZE"
+			],
+			[
+				"fal",
+				"fallingEdgeFlag"
+			],
+			[
+				"HIT",
+				"MADE_HIT"
+			],
+			[
+				"VALUE",
+				"VALUE_DROP_FOR_TOUCH"
+			],
+			[
+				"prin",
+				"println	Arduino Serial println"
+			],
+			[
+				"sta",
+				"stage"
+			],
+			[
+				"make",
+				"makeTransition"
+			],
+			[
+				"HAD",
+				"HAD_GOT_HIT"
+			],
+			[
+				"COLOR",
+				"COLOR_CHANGING_DONE"
+			],
+			[
+				"xb",
+				"xbToSend"
+			],
+			[
+				"check",
+				"checkForXbeeMessage"
+			],
+			[
+				"SP",
+				"SPEAKER_PIN"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"animat",
+				"animateError"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"WEAPON",
+				"WEAPON_LIGHT_FOIL"
+			],
+			[
+				"pin",
+				"pinMode"
+			],
+			[
+				"we",
+				"weaponSelect"
+			],
+			[
+				"digital",
+				"digitalWrite"
+			],
+			[
+				"ERR",
+				"ERROR_DETECTED"
+			],
+			[
+				"anima",
+				"animateInitialization"
+			],
+			[
+				"end",
+				"endPixel"
+			],
+			[
+				"animate",
+				"animateSyncing"
+			],
+			[
+				"un",
+				"uint8_t"
+			],
+			[
+				"anim",
+				"animateColorChange"
+			],
+			[
+				"EV",
+				"EV_NO_EVENT"
+			],
+			[
+				"turn",
+				"turnOffAllLights"
+			],
+			[
+				"chag",
+				"changeGloveColor"
+			],
+			[
+				"delay",
+				"delayTime"
+			],
+			[
+				"ga",
+				"gaurd"
+			],
+			[
+				"checkFor",
+				"checkForHit"
+			],
+			[
+				"SPORT",
+				"SPORT_BTN_PUSHED"
+			],
+			[
+				"HAD_",
+				"HAD_MADE_HIT"
+			],
+			[
+				"CHN",
+				"CHANGING_COLOR"
+			],
+			[
+				"CHANG",
+				"CHANGING_COLOR"
+			],
+			[
+				"SYN",
+				"SYNCING_MODE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/blumenlumen/index.html",
+			"settings":
+			{
+				"buffer_size": 8045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/main.js",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/main.scss",
+			"settings":
+			{
+				"buffer_size": 10665,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/ArduinoUpload/ArduinoUpload.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"function",
+				"Snippet: Function"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"set cy",
+				"Set Syntax: C"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"packg",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"arduino",
+				"Stino: Select Arduino Folder..."
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"stino",
+				"Stino: New Sketch..."
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ardu",
+				"Set Syntax: Arduino"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"horiz",
+				"Snippet: Arduino horizontal separator"
+			],
+			[
+				"proc",
+				"Set Syntax: Processing"
+			],
+			[
+				"ardui",
+				"Snippet: Arduino horizontal separator"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ardi",
+				"Set Syntax: Arduino"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"con",
+				"Package Control: Remove Package"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"print",
+				"Snippet: Arduino println"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippp	",
+				"Snippet: Arduino print"
+			],
+			[
+				"alig",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"ar",
+				"Set Syntax: Arduino"
+			],
+			[
+				"snip",
+				"Snippet: ArduinoSetup"
+			],
+			[
+				"setup",
+				"Snippet: setup"
+			],
+			[
+				"snippet: ",
+				"Snippet: loop"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"snipp",
+				"Snippet: For Loop"
+			],
+			[
+				"process",
+				"Set Syntax: Processing"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"if",
+				"Snippet: If Condition"
+			],
+			[
+				"set syntax C++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/static/css/main.scss",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/templates/base.html",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/static/css/mobile.scss",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/pages/index.html",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/pages/blumenlumen-mobile/index.html",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/static/js/detectmobilebrowser.js",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/static/js/main-mobile.js",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/pages/blumenlumen/test.html",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/static/css/main.css",
+		"/Users/jchion/Downloads/image-overlay-hover-effects-source/css/style.css",
+		"/Users/jchion/Desktop/modernizr.custom.29159.js",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/blumenlumen/static/js/main.js",
+		"/Users/jchion/Dropbox (ideo.com)/Burningman-Flowers/Website/foldhaus/static/js/main.js",
+		"/Users/jchion/Desktop/stories5ideas.txt",
+		"/Users/jchion/Desktop/Blue kayak camping.txt",
+		"/Users/jchion/Documents/projects/Visor/visor/user_testing_1/processing/processing_visor/processing_visor.pde",
+		"/Users/jchion/Documents/projects/Visor/visor/user_testing_1/visor_arduino/visor_arduino.ino",
+		"/Users/jchion/Documents/projects/Visor/visor/controlNoam/data/scenarios.json",
+		"/Users/jchion/Documents/projects/Visor/visor/overo-i2c-imu/README.md",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/OveroI2C.h",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/OveroI2C.cpp",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/IMU_9DOF.h",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/main.cpp",
+		"/Users/jchion/Documents/projects/Visor/visor/overo-i2c-imu/IMU_9DOF.cpp",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/arduinoPort/arduinoPort.ino",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/arduino/arduino.ino",
+		"/Users/jchion/Documents/projects/Visor/i2cTest/OveroI2C.cpp",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/main.h",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/imutest/imutest.ino",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/imu-test/imutest.ino",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/imu-test.ino",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/Makefile",
+		"/Users/jchion/Documents/projects/Visor/i2cTest/OveroI2C.h",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/imu.h",
+		"/Users/jchion/Documents/projects/Visor/i2c-imu/imu.cpp",
+		"/Users/jchion/Desktop/RazorAHRS.h",
+		"/Users/jchion/Desktop/example.cpp",
+		"/Users/jchion/Desktop/RazorAHRS.cpp",
+		"/Users/jchion/Documents/side projects/web/foldhaus/pages/posts/14-04-27.html",
+		"/Users/jchion/Documents/side projects/web/foldhaus/pages/posts/14-04-05.html",
+		"/Users/jchion/Documents/side projects/web/foldhaus/pages/posts/14-03-15.html",
+		"/Users/jchion/Documents/side projects/web/foldhaus/pages/posts/13-12-02.html",
+		"/Users/jchion/Documents/side projects/web/foldhaus/pages/posts/13-12-01.html",
+		"/Users/jchion/Documents/side projects/web/foldhaus/pages/posts/13-11-23.html",
+		"/Users/jchion/Documents/projects/Visor/visor/robovero/python/robovero/lpc17xx_i2c.py",
+		"/Users/jchion/Documents/projects/Visor/visor/robovero/python/robovero/internals.py",
+		"/Users/jchion/Documents/projects/Visor/i2cTest/main.c",
+		"/Users/jchion/Documents/projects/Visor/overo-mcp23017/main.c",
+		"/Users/jchion/Documents/projects/Visor/overo-mcp23017/mcp23017_regs.h",
+		"/Users/jchion/Documents/projects/Visor/visor/robovero/python/robovero/extras.py",
+		"/Users/jchion/Documents/projects/Visor/python/robovero/extras.py~",
+		"/Users/jchion/Documents/projects/Visor/python/robovero/lpc17xx_adc.py",
+		"/Users/jchion/Documents/side projects/web/random-subtle-pattern/js/newtab.js",
+		"/Users/jchion/Documents/side projects/web/progressions/css/animate.css",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/static/js/ps.js",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/templates/nav.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/musicposters.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/eggshells.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/static/js/index.js",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/templates/base.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/onesqonecircle.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/index.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/dizzytype.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/randomsubtlepatterns.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/typewriterprinter.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/templates/footer.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/rotatingillusion.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/typeexperiments.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/hello.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/lightchimes.html",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/pages/cubes.html",
+		"/Users/jchion/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/js/index.js",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/sass/type-experiments-style.scss",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/js/ps.js",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/js/type-experiments.js",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/typeexperiments.php",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/rotatingillusion.php",
+		"/Users/jchion/Documents/side projects/web/portfoliosite/sass/screen.scss",
+		"/Users/jchion/Documents/side projects/web/portfolio/rotatingillusion.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/onesqonecircle.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/musicposters.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/lightchimes.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/hello.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/dizzytype.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/cubes.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/index.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/randomsubtlepatterns.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/nav.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/sass/index.html",
+		"/Users/jchion/Documents/side projects/web/portfolio/eggshells.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/sass/rotating-illusion-style.scss",
+		"/Users/jchion/Documents/side projects/web/portfolio/js/ps.js",
+		"/Users/jchion/Documents/side projects/web/portfolio/header.php",
+		"/Users/jchion/Documents/side projects/web/portfolio/stylesheets/rotating-illusion-style.css",
+		"/Users/jchion/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jchion/Documents/side projects/web/portfolio/fonts/glyphicons-halflings-regular.svg",
+		"/Users/jchion/Documents/side projects/web/portfolio/index.html",
+		"/Users/jchion/Documents/side projects/web/portfolio/stylesheets/screen.css",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/design changes for 1-1.txt",
+		"/Users/jchion/Documents/Arduino/libraries/XBee/examples/Series1_Rx/Series1_Rx.pde",
+		"/Users/jchion/Documents/Arduino/libraries/XBee/examples/Series1_Tx/Series1_Tx.pde",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/xbee_tx_tester/xbee_tx_tester.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/mpr121_tester/mpr121_test/mpr121_test.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/ffr_final/I2C.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/mpr121_tester/mpr121.h",
+		"/Users/jchion/Desktop/sounddetecttest/sounddetecttest.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/arduinoAD7746/processing/SimpleRead/SimpleRead.pde",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/ffr_final/Status.ino",
+		"/Users/jchion/Documents/Dropbox/fence_fence_revolution/02 design prototypes/code/arduinoAD7746/arduino/AD7746_clean/AD7746_clean.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/Series1_Rx/Series1_Rx.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/ffr/ffr.ino",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/ffr/Constants.h",
+		"/Users/jchion/Documents/Dropbox/Fence_Fence_Revolution/02 design prototypes/code/ffr/animations.ino",
+		"/Users/jchion/Documents/Dropbox/fence_fence_revolution/02 design prototypes/code/arduinoAD7746/arduino/AD7746_clean/Status.ino",
+		"/Users/jchion/Documents/Dropbox/fence_fence_revolution/02 design prototypes/code/arduinoAD7746/arduino/AD7746_clean/I2C.ino",
+		"/Users/jchion/Downloads/breathbelt hardware documentation/Arduino/breathbelt/breathbelt.ino",
+		"/Users/jchion/Downloads/breathbelt hardware documentation/DOCUMENTATION - READ ME.txt",
+		"/Users/jchion/Documents/Arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp",
+		"/Users/jchion/Documents/Arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.h",
+		"/Users/jchion/Documents/Arduino/libraries/Adafruit_NeoPixel/examples/strandtest/strandtest.pde",
+		"/Users/jchion/Desktop/arduinoAD7746/processing/adjd7746/adjd7746.pde",
+		"/Users/jchion/Desktop/Arduino---AD7746-master/processing-client/adjd7746.pde",
+		"/Users/jchion/Desktop/Arduino---AD7746-master/AD7746_clean/AD7746_clean.ino",
+		"/Users/jchion/Desktop/Arduino---AD7746-master/AD7746_clean/I2C.ino",
+		"/Users/jchion/Documents/Arduino/libraries/AMIS30624/Amis30624.h",
+		"/Users/jchion/Documents/Arduino/libraries/AMIS3062/Amis3062.h",
+		"/Users/jchion/Documents/Arduino/libraries/AMIS3062/Amis3062.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"position",
+			"background-position:0 0px;",
+			",",
+			"transform:translate",
+			"reward",
+			"<br>",
+			"100",
+			"day",
+			"icon2x",
+			"icon1x",
+			"into",
+			"img",
+			"center",
+			"day",
+			"icon1x",
+			"_box",
+			"jesse",
+			"jimmy",
+			"static",
+			"fonts",
+			"Simplefont",
+			"Simple",
+			"static/",
+			"Simplefont",
+			"simplefont",
+			"SimpleWeb",
+			"))",
+			"font-path(",
+			"Simple",
+			"two",
+			"min-height",
+			"section-3",
+			"Y",
+			"rotate",
+			"0p",
+			"line-flower",
+			"line",
+			"wired",
+			"nighttime2",
+			"5",
+			"4",
+			"100",
+			"col-xs-5 col-xs-offset-1",
+			"resizeDiv",
+			"img class",
+			"jimmy",
+			"col-lg-offset-3",
+			"class=\"tiled-img\"",
+			"id=\"process",
+			"id=\"process-0\"",
+			"width:200px;",
+			"img",
+			"10*Math.random() + 1",
+			"red",
+			"max-width",
+			"min-width",
+			"normal",
+			"        <div class=\"reward-overlay\">\n",
+			"        <div class=\"reward-overlay\">\n          <!-- <span>$102</span> -->\n        </div>",
+			"col-lg-2",
+			"7",
+			"../static/images",
+			"kickstarter-link",
+			"#",
+			"img",
+			"4",
+			"10",
+			"480",
+			"7",
+			";\n",
+			"D705A8",
+			"med",
+			"  @include viewport-full-bleed;\n",
+			"width=\"100px\"",
+			"3",
+			"2",
+			"3",
+			"section-",
+			"src",
+			"3",
+			"lg",
+			"append",
+			"gyro",
+			"magnetom",
+			"accel",
+			"Init",
+			"_",
+			"output_errors",
+			"uint8_t",
+			"MAGN_DATA_START",
+			"ACCEL_DATA_START",
+			"5000",
+			"read",
+			":\"",
+			"accel",
+			"0",
+			"e",
+			"0",
+			"53",
+			"IMU",
+			"beginTransmissionTo",
+			"OveroI2C::",
+			"switchConnectionTo",
+			"overoi2c",
+			"GYRO_WRITE",
+			"MAGN_WRITE",
+			"Wire.write(",
+			"beginTransmissionTo",
+			"char",
+			"Wire.write(ACCEL_WRITE",
+			"Wire.write(,ACCEL_WRITE ",
+			"Wire.write(ACCEL_WRITE",
+			"usleep",
+			"wait_ms",
+			"DEBUG__PRINT_LOOP_TIME",
+			"constrain",
+			"GRAVITY",
+			"wait_ms",
+			"Wire",
+			"serial.write",
+			"I2C_MonitorGetDatabuffer",
+			"getReturn",
+			"robocaller",
+			"requestFrom",
+			"transmitting",
+			"fh",
+			"I2C_SLAVE",
+			"O_RDWR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mySerial",
+			"bool"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/blumenlumen/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 131.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1773,
+								1773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 529.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "static/css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.arduino_panel":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 73.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "blumenlumen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".cpp",
+				"/Users/jchion/Documents/Arduino/libraries/BLEcontroller/BLEcontroller.cpp"
+			],
+			[
+				"ble",
+				"/Users/jchion/Documents/Arduino/libraries/BLEcontroller/BLEcontroller.cpp"
+			],
+			[
+				"",
+				"/Users/jchion/Documents/Arduino/libraries/BLEcontroller/BLEcontroller.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 308.0,
+		"selected_items":
+		[
+		],
+		"width": 334.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
