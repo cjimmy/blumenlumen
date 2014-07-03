@@ -1,4 +1,19 @@
 $(document).ready(function(){
+
+  $(window).on('scroll',function(e) {
+    var el = $('#helios');
+    var rect = el.getBoundingClientRect();
+    var target = $('.garden-night, .garden-day')
+    if (rect.top <= 0 && rect.bottom >= $(window).height()) {
+    // if(!timer) console.log('Contextronic on');
+    $(el).find(target).addClass('on').removeClass('bottom');
+    } else if (rect.bottom <= $(window).height() && rect.bottom >= 0) {                // if(!timer)console.log('Contextronic bottom');
+      $(el).find(target).addClass('bottom').removeClass('on');
+    } else {
+      $(el).find(target).removeClass('on bottom');
+    }
+  });
+
   resizeSectionHeights();
   resizeOverlays();
   startGradientChanging();
@@ -10,6 +25,7 @@ $(document).ready(function(){
     }
   });
 });
+
 
 //-------------------------------
 window.onresize = function(event) {
@@ -57,6 +73,8 @@ var blue = 0;
 var r_increment = Math.floor(3*Math.random() + 1);
 var g_increment = Math.floor(3*Math.random() + 1);
 var b_increment = Math.floor(3*Math.random() + 1);
+
+
 
 
 function startGradientChanging() {
