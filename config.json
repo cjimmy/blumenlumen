@@ -1,6 +1,6 @@
 {
     "aws-access-key": "AKIAJRJGLADFBXW7UWJA",
-    "aws-bucket-name": "www.foldhaus.com",
-    "aws-bucket-website": "www.foldhaus.com.s3-website-us-east-1.amazonaws.com",
+    "aws-bucket-name": "foldhaus.com",
+    "aws-bucket-website": "foldhaus.com.s3-website-us-east-1.amazonaws.com",
     "port": 8857
 }

@@ -160,6 +160,9 @@ body {
 
   background-color:$sky-blue-dark;
   width: 100%;
+    -webkit-backface-visibility: hidden;
+    // -webkit-perspective: 1000;
+
   // min-height: 2400px;
   
   // img {
@@ -196,6 +199,8 @@ body {
   -o-background-size: cover;
   background-size: cover;
   z-index: 1000;
+  -webkit-backface-visibility: hidden;
+  // -webkit-perspective: 1000;
   // opacity:0;
 
 }
