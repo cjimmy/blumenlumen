@@ -443,12 +443,37 @@
 @media all and (min-width: 601px) and (max-width: 1000px) {
   #section-6-description {
     width: 500px; }
-
-  .section-6 {
-    min-height: 1400px; }
-    .section-6 h2 {
-      font-size: 13pt; }
-    .section-6 p {
-      font-size: 12pt; } }
+    #section-6-description .section-6 {
+      min-height: 1400px; }
+      #section-6-description .section-6 h2 {
+        font-size: 13pt; }
+      #section-6-description .section-6 p {
+        font-size: 12pt; } }
+@media all and (max-width: 600px) {
+  .section-7 {
+    min-height: 4500px; } }
 .section-7 {
-  background-color: #1D1D1D; }
+  background-color: #1D1D1D;
+  min-height: 1200px;
+  font-family: 'simple-regular', Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-size: 10pt;
+  padding-top: 15%; }
+  .section-7 h2 {
+    font-family: 'simple-regular', Helvetica, sans-serif;
+    font-size: 16pt;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16pt;
+    line-height: 36pt;
+    text-align: center; }
+
+.contributors {
+  margin: 50px 100px;
+  text-transform: capitalize; }
